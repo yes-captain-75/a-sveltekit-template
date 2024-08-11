@@ -4,11 +4,16 @@ This is a simple SvelteKit starter template with [list key features, e.g., Tailw
 
 ## Features
 
-- SvelteKit [version number]
-- Tailwind CSS for styling
-- [Any other key features you've included]
+- SvelteKit - 2.0.0
+- Tailwind CSS for styling - 3.4.9
 
 ## Getting Started
+- npx degit yes-captain-75/a-sveltekit-template my-new-project
+- cd my-new-project
+- npm install
+- git init
+- git add .
+- git commit -m "Initial commit"
 
 ### Prerequisites
 
